@@ -38,18 +38,15 @@ let quote = quotes[Math.floor(Math.random() * quotes.length)];
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 ╔═══════════════════════╗
-║ 🤖 ʙᴏᴛ ɴᴀᴍᴇ: 𝐋𝐚𝐳𝐚𝐜𝐤-𝐌-𝐃𝐞𝐯𝐢𝐜𝐞
-║ 📍 ᴠᴇʀꜱɪᴏɴ: 1.0.1
-║ 👨‍💻 ᴏᴡɴᴇʀ : 𝐋𝐚𝐳𝐚𝐜𝐤      
-║ 👤 ɴᴜᴍʙᴇʀ: 255734980103
-║ 📡 ᴘʟᴀᴛғᴏʀᴍ: *𝙇𝙄𝙉𝙐𝙓*
+║ 🤖 ʙᴏᴛ ɴᴀᴍᴇ:ΤⅭᖇOꓠ𝐄𝘉 𝖷𝕄𝔇 𝓟𐐛𝑼𝙎
+║ 👨‍💻 ᴏᴡɴᴇʀ : ΤⅭᖇOꓠ𝐄𝘉 -Ⲏ𝛢ℂＫ𝑿      
 ║ 🛡 ᴍᴏᴅᴇ: *ℙ𝕌𝔹𝕃𝕀ℂ*
 ║ 💫 ᴘʀᴇғɪx: [ . ]
 ╚═══════════════════════╝
 © Lazack-organisation\n\n
 ${readMore}
 ───『 *I N F O  C M D*』───
-> Try using shortcuts to get the menu, for example: *.botmenu*
+> Try using shortcuts to get the menu, for example: *.menu2*
 ___________________ 
 
 ${readMore}
@@ -58,26 +55,10 @@ ${readMore}
 ${readMore}
 ╔═══════════════════════╗
 ║ *1.* BotMenu
-║ *2.* OwnerMenu
-║ *3.* GroupMenu
-║ *4.* FunMenu
-║ *5.* ReactionMenu
-║ *6.* DownloaderMenu
-║ *7.* GameMenu
-║ *8.* LogoMenu
-║ *9.* StickerMenu
-║ *10.* AudioMenu
-║ *11.* NewsMenu
-║ *12.* EconomyMenu
-║ *13.* AnimeMenu
-║ *14.* NSFWMenu
-║ *15.* ToolsMenu
-║ *16.* AIMenu
-║ *17.* ReligionMenu
-║ *18.* PluginMenu
+║ *2.* Menu2
 ╚═══════════════════════╝
 
-*https://home.lazackorganisation.my.id*
+*ᵂᴼᴿᴸᴰ_𝖔𝖋_ᵀᴱᶜᴴᴺᴼᴸᴼᴳʸ*
 
 > Remember to use the prefix and one of the commands above. Use ${usedPrefix}report to send feedback directly.
 `
