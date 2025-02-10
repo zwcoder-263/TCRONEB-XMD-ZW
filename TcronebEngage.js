@@ -46,7 +46,7 @@ const __dirname = path.dirname(__filename);
 app.use(express.static(path.join(__dirname, 'Botify')));
 
 app.get('/', (req, res) => {
-  res.redirect('/lazack.html');
+  res.redirect('/tcroneb.html');
 });
 
 app.listen(port, () => {
@@ -87,7 +87,7 @@ async function start(file) {
 
     fs.watchFile(args[0], () => {
       fs.unwatchFile(args[0])
-      start('LazackFlow.js')
+      start('TcronebFlow.js')
     })
   })
 
@@ -95,14 +95,14 @@ async function start(file) {
     console.error(chalk.red(`Error: ${err}`))
     p.kill()
     isRunning = false
-    start('LazackFlow.js')
+    start('TcronebFlow.js')
   })
 
-  const pluginsFolder = path.join(path.dirname(currentFilePath), 'lazackcmds')
+  const pluginsFolder = path.join(path.dirname(currentFilePath), 'tcronebcmds')
 
   fs.readdir(pluginsFolder, async (err, files) => {
     if (err) {
-      console.error(chalk.red(`Error reading lazackcmds folder: ${err}`))
+      console.error(chalk.red(`Error reading tcronebcmds folder: ${err}`))
       return
     }
     console.log(chalk.yellow(`Installed ${files.length} plugins`))
@@ -121,7 +121,7 @@ start('TcronebFlow.js')
 
 process.on('unhandledRejection', () => {
   console.error(chalk.red(`Unhandled promise rejection. Bot will restart...`))
-  start('LazackFlow.js')
+  start('TcronebFlow.js')
 })
 
 process.on('exit', code => {
