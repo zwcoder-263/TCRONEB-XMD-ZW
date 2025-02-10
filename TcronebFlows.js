@@ -352,7 +352,7 @@ async function connectionUpdate(update) {
 
   if (connection === 'open') {
     const { jid, name } = conn.user
-    const msg = `Welcome to TCRONEB-XMD-ZW! Your WhatsApp is successfully connected. Enjoy using it! Don't forget to check out our channel:\n\n\n https://zw-blue-web.vercel.app`
+    const msg = `Welcome to TCRONEB-XMD-ZW! Your WhatsApp is successfully connected. Enjoy using it! Don't forget to check out our channel:\n\n\n https://whatsapp.com/channel/0029Vb4sHtX6hENwn07deE1a`
 
     await conn.sendMessage(jid, { text: msg, mentions: [jid] }, { quoted: null })
 
@@ -443,7 +443,7 @@ global.reloadHandler = async function (restatConn) {
   return true
 }
 
-const pluginFolder = global.__dirname(join(__dirname, './lazackcmds/index'))
+const pluginFolder = global.__dirname(join(__dirname, './tcronebcmds/index'))
 const pluginFilter = filename => /\.js$/.test(filename)
 global.plugins = {}
 async function filesInit() {
