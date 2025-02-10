@@ -36,7 +36,7 @@ let greeting = ucapan()
 let quote = quotes[Math.floor(Math.random() * quotes.length)];
 
 
-let link = `https://whatsapp.com/channel/0029VaIRINGCXC3EussN4b2E`
+let link = `https://whatsapp.com/channel/0029Vb4sHtX6hENwn07deE1a`
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 ╭───「 *BUGS* 」───╮
@@ -196,8 +196,8 @@ let str = `
 │ .mysn
 │ .unreg
 ╰───────────────╯
-*https://home.lazackorganisation.my.id*
-> FOOTBALL IS MY LIFE, CODING IS MY HOBBY
+*ᵂᴼᴿᴸᴰ_𝖔𝖋_ᵀᴱᶜᴴᴺᴼᴸᴼᴳʸ*
+> ENJOY  TCRONEB XMD ZW 
 `
 
 
