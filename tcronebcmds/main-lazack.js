@@ -2,14 +2,14 @@ let handler = async m =>
   m.reply(
     `
 
-≡ 𝐋𝐀𝐙𝐀𝐂𝐊-𝐌𝐃 GROUPS
+≡ TCRONEB-XMD-ZW GROUPS
 
 ─────────────
 ▢ Join public bot group and support
-https://chat.whatsapp.com/IIpL6gf6dcq4ial8gaJLE9
+https://chat.whatsapp.com/LqD6utmLF699JIW9R82O95
 
 ▢ Group 2
-https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x
+https://whatsapp.com/channel/0029Vb4sHtX6hENwn07deE1a
 
 ─────────────
 ≡ Disabled links? enter here! 
@@ -18,10 +18,10 @@ https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x
  https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x
 ─────────────
 ▢ *Owner instagram*
- https://instagram.com/Lazack_28
+ https://instagram.com/Lil_crone
 
 ▢ *YouTube*
-• https://www.youtube.com/@lazack_28
+• https://www.youtube.com/@zwcoder
 
 
 `.trim()
