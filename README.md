@@ -1,4 +1,4 @@
-<h1 align="center"> 🇬 🇦 🇳 🇬𝐒𝐓𝐄𝐑  V10</h1>
+<h1 align="center">TCRONEB-HACKX | ZW CODER OFFICIAL BOT</h1>
 <p align="center">  
   
 ***
