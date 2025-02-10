@@ -3,7 +3,7 @@
     "name": "TCRONEB-XMD-ZW",
     "version": "2.1.0",
     "description": "Advanced WhatsApp",
-    "main": "LazackEngage.js",
+    "main": "TcronebEngage.js",
     "type": "module",
     "directories": {
         "lib": "lib",
@@ -14,8 +14,8 @@
         "node": ">=20.0.0"
     },
     "scripts": {
-        "start": "node LazackEngage.js",
-        "test": "node LazackEcho.js"
+        "start": "node TcronebEngage.js",
+        "test": "node TcronebEcho.js"
     },
     "keywords": [
         "termux-whatsapp-bot",
