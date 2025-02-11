@@ -1,6 +1,6 @@
 
 {
-    "name": "TCRONEB-XMD-ZW",
+    "name": "TCRONEB-XMD-PLUS",
     "version": "2.1.0",
     "description": "Advanced WhatsApp",
     "main": "TcronebEngage.js",
@@ -29,16 +29,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/zwcoder-263/TCRONEB-XMD-ZW",
+    "homepage": "https://github.com/zwcoder-263/TCRONEB-XMD-PLUS",
     "author": {
         "name": "zwcoder-263"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/zwcoder-263/TCRONEB-XMD-ZW.git"
+        "url": "git+https://github.com/zwcoder-263/TCRONEB-XMD-PLUS.git"
     },
     "bugs": {
-        "url": "https://github.com/zwcoder-263/TCRONEB-XMD-ZW/issues"
+        "url": "https://github.com/zwcoder-263/TCRONEB-XMD-PLUS/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
