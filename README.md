@@ -1,11 +1,4 @@
-<h1 align="center">TCRONEB-HACKX | ZW CODER OFFICIAL BOT</h1>
-<p align="center">  
-  
-***
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;🇬 🇦 🇳 🇬 🇸 🇹  🇪 🇷  +🇻10;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+🇹 🇨 🇷 🇴 🇳 🇪 🇧 +BOY;RELEASED+28.09.24" alt="Typing SVG" /></a>
-  </p>
-    <a href="https://ibb.co/f4MFqxs"><img src="https://i.ibb.co/nzrm6LF/20230704-234038.jpg" alt="20230704-234038" border="0" /></a>
+<a href="https://ibb.co/f4MFqxs"><img src="https://i.ibb.co/d4QT1569/beee.jpg" alt="20230704-234038" border="0" /></a>
 <p align="center">
 <pQUEEN-RIAS align="center">
 <a href="https://github.com/zwcoder-263/TCRONEB-XMD-ZW"><img title="Author" src="https://img.shields.io/badge/Rias Gremory-black?style=for-the-badge&logo=github"></a>
@@ -39,7 +32,7 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+ PANEL+DEPLOYMENT" alt="Typing SVG" /></a>
  
   ```bash
-  * upload the 𝙶𝙰𝙽𝙶𝚂𝚃𝙴𝚁 - V10 Zip
+  * upload the TCRONEB-XMD-ZW Zip
   * unarchive the zip
   * delete the zip 
   * move the files to ../
