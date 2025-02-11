@@ -1,7 +1,7 @@
 <a href="https://ibb.co/f4MFqxs"><img src="https://i.ibb.co/d4QT1569/beee.jpg" alt="20230704-234038" border="0" /></a>
 <p align="center">
 <pQUEEN-RIAS align="center">
-<a href="https://github.com/zwcoder-263/TCRONEB-XMD-ZW"><img title="Author" src="https://img.shields.io/badge/Rias Gremory-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/zwcoder-263/TCRONEB-XMD-ZW"><img title="Author" src="https://img.shields.io/badge/TCRONEB HACKX-black?style=for-the-badge&logo=github"></a>
 
 ### 1.`First STAR 🌟 This Repo ` And Then Click Fork Below
 <br>
