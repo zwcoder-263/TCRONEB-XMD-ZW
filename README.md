@@ -53,18 +53,6 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
     <a href='https://youtu.be/I5L6gcc8o1Q?si=' target="_blank"><img alt='TUTORIAL' src='https://img.shields.io/badge/-Tutorial-black?style=for-the-badge&logo=Youtube&logoColor=red'/></a>
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>    
-
-***
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>    
-
-</p>
-<p align="center"> 
-  <a href="https://whatsapp.com/channel/0029Vb4sHtX6hENwn07deE1a">
-    <img alt=Support height="390" src="https://i.imgur.com/LyHic3i.gif"> 
-    </p>
-
-
 #### DEPLOY TO HEROKU 
 3. `If You Don't Have An Account On Heroku`
 
@@ -83,11 +71,23 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
 . `If You Have an account on Render`
 - <a href="https://render.com"><img title="Deploy Now" src="https://img.shields.io/badge/DEPLOY NOW-h?color=orange&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
+
+- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+- 
 ### WARNING
 
 - **TCRONEB-HACKX | ZW CODER OFFICIAL BOT  is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use TCRONEB-HACKX | ZW CODER OFFICIAL BOT  at your own risk by keeping this warning in mind.*
+- *Use TCRONEB-HACKX | ZW CODER OFFICIAL BOT  at your own risk by keeping this warning in mind.*   
+
+***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>    
+
+</p>
+<p align="center"> 
+  <a href="https://whatsapp.com/channel/0029Vb4sHtX6hENwn07deE1a">
+    <img alt=Support height="390" src="https://i.imgur.com/LyHic3i.gif"> 
+    </p>
   
 
 <p align="center">                                 TCRONEB-HACKX | ZW CODER OFFICIAL BOT 
