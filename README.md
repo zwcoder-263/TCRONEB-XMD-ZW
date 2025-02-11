@@ -1,6 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<a href="https://ibb.co/f4MFqxs"><img src="https://i.ibb.co/HTrS1HYv/beee.jpg" alt="20230704-234038" border="0" /></a>
+<a href="https://ibb.co/f4MFqxs"><img src="https://i.ibb.co/HTrS1HYv/beee.jpg"
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
