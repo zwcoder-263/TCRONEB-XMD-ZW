@@ -2,8 +2,6 @@
 <p align="center">
 <pQUEEN-RIAS align="center">
 <a href="https://github.com/zwcoder-263/TCRONEB-XMD-ZW"><img title="Author" src="https://img.shields.io/badge/Rias Gremory-black?style=for-the-badge&logo=github"></a>
-<p align="center">
-color=blue&style=flat-square"></a>
 
 ### 1.`First STAR 🌟 This Repo ` And Then Click Fork Below
 <br>
